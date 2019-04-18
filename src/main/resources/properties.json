@@ -1,0 +1,51 @@
+{
+  "pumpkin":
+  {
+    "facing=south": "",
+    "?": "null"
+  },
+  "brown_mushroom_block":
+  {
+    "multipartition":
+    {
+      "variant=?_?": 
+      {
+        "when": {"?","?"},
+        "apply": {"model"}
+      }
+    }
+  },
+  "red_mushroom_block":
+  {
+    "multipartition":
+    {
+      "variant=?_?": 
+      {
+        "when": {"?","?"},
+        "apply": {"model"}
+      }
+    }
+  },
+  "melon_stem":
+  {
+    "splitup":
+    {
+      "attached_melon_stem": "facing",
+      "melon_stem": "age"
+    }
+  },
+  "anvil":
+  {
+    "splitup":
+    {
+      "anvil":"damage=0",
+      "chipped_anvil":"damage=1",
+      "damaged_anvil":"damage=2"
+    }
+  },
+  "piston_head":
+  {
+    "parent":  "template_piston_head"
+  
+
+

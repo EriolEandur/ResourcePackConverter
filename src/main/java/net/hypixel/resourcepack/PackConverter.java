@@ -40,6 +40,7 @@ public class PackConverter {
         this.registerConverter(new BlockStateConverter(this));
         this.registerConverter(new AnimationConverter(this));
         this.registerConverter(new MapIconConverter(this));
+        this.registerConverter(new ManualUpdateConverter(this));
     }
 
     public void registerConverter(Converter converter) {
