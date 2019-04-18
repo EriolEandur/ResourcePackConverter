@@ -1,0 +1,88 @@
+{
+  "variants": {
+    "facing\u003dsouth": [
+      {
+        "model": "block/anvil_slightly_damaged/1",
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/2",
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/3",
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/4",
+        "weight": 6
+      }
+    ],
+    "facing\u003dwest": [
+      {
+        "model": "block/anvil_slightly_damaged/1",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/2",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/3",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/4",
+        "y": 90,
+        "weight": 6
+      }
+    ],
+    "facing\u003dnorth": [
+      {
+        "model": "block/anvil_slightly_damaged/1",
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/2",
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/3",
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/4",
+        "y": 180,
+        "weight": 6
+      }
+    ],
+    "facing\u003deast": [
+      {
+        "model": "block/anvil_slightly_damaged/1",
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/2",
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/3",
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "block/anvil_slightly_damaged/4",
+        "y": 270,
+        "weight": 6
+      }
+    ]
+  }
+}

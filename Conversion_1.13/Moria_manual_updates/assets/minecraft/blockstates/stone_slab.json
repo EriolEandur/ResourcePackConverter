@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type\u003dbottom": {
+      "model": "block/stone_slab"
+    },
+    "type\u003dtop": {
+      "model": "block/stone_slab_top"
+    },
+    "type\u003ddouble": {
+      "model": "block/double_stone"
+    }
+  }
+}

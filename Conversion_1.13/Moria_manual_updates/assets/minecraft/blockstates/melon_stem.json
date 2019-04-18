@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age\u003d0": {
+      "model": "block/melon_stem_stage0"
+    },
+    "age\u003d1": {
+      "model": "block/melon_stem_stage1"
+    },
+    "age\u003d2": {
+      "model": "block/melon_stem_stage2"
+    },
+    "age\u003d3": {
+      "model": "block/melon_stem_stage3"
+    },
+    "age\u003d4": {
+      "model": "block/melon_stem_stage4"
+    },
+    "age\u003d5": {
+      "model": "block/melon_stem_stage5"
+    },
+    "age\u003d6": {
+      "model": "block/melon_stem_stage6"
+    },
+    "age\u003d7": {
+      "model": "block/melon_stem_stage7"
+    }
+  }
+}

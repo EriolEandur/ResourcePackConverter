@@ -1,0 +1,965 @@
+Categories:
+    Workshop:
+        itemMaterial: LEGACY_GOLD_HELMET
+        damage: 5
+        damageCurrent: 6
+        display: Workshop items
+    Interior:
+        itemMaterial: LEGACY_GOLD_HELMET
+        damage: 7
+        damageCurrent: 8
+        display: Interior items
+    Deco:
+        itemMaterial: LEGACY_GOLD_HELMET
+        damage: 9
+        damageCurrent: 10
+        display: Decoration
+    Misc:
+        itemMaterial: LEGACY_GOLD_HELMET
+        damage: 11
+        damageCurrent: 12
+        display: Miscellanous blocks
+Items:
+# MAX durability of Diamond Leggings: 496
+    Netherwart1:
+        blockMaterial: LEGACY_NETHER_WARTS
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 1
+        display: Torn Rope [115:1]
+        category: Misc
+        type: BLOCK 
+    Netherwart2:
+        blockMaterial: LEGACY_NETHER_WARTS
+        dataValue: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 2
+        display: Bag [115:2]
+        category: Misc
+        type: BLOCK 
+    Netherwart3:
+        blockMaterial: LEGACY_NETHER_WARTS
+        dataValue: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 3
+        display: Statue/Decoration [115:3]
+        category: Interior
+        type: BLOCK 
+    Beetroot1:
+        blockMaterial: LEGACY_BEETROOT_BLOCK
+        dataValueNorth: 1
+        dataValueSouth: 1
+        dataValueWest: 0
+        dataValueEast: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 4
+        display: Saw blade [207:1+2]
+        category: Workshop
+        type: FOUR_DIRECTIONS
+    Crops0:
+        blockMaterial: LEGACY_CROPS
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 5
+        display: Plate [59:0]
+        category: Interior
+        type: BLOCK 
+    Crops1:
+        blockMaterial: LEGACY_CROPS
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 6
+        display: Pot [59:1]
+        category: Interior
+        type: BLOCK 
+    Crops2:
+        blockMaterial: LEGACY_CROPS
+        dataValue: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 7
+        display: Cup [59:2]
+        category: Interior
+        type: BLOCK 
+    Crops3:
+        blockMaterial: LEGACY_CROPS
+        dataValue: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 8
+        display: Bottle [59:3]
+        category: Interior
+        type: BLOCK 
+    Crops4:
+        blockMaterial: LEGACY_CROPS
+        dataValue: 4
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 9
+        display: Jar Filling [59:4]
+        category: Interior
+        type: BLOCK 
+    Crops5:
+        blockMaterial: LEGACY_CROPS
+        dataValue: 5
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 10
+        display: Small Jar [59:5]
+        category: Interior
+        type: BLOCK 
+    Carrots0:
+        blockMaterial: LEGACY_CARROT
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 11
+        display: Small Box [141:0]
+        category: Interior
+        type: BLOCK 
+    Carrots1:
+        blockMaterial: LEGACY_CARROT
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 12
+        display: Paper [141:1]
+        category: Interior
+        type: BLOCK 
+    Carrots2:
+        blockMaterial: LEGACY_CARROT
+        dataValue: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 13
+        display: Map [141:2]
+        category: Interior
+        type: BLOCK 
+    Carrots3:
+        blockMaterial: LEGACY_CARROT
+        dataValue: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 14
+        display: Skin [141:3]
+        category: Interior
+        type: BLOCK 
+    Carrots4:
+        blockMaterial: LEGACY_CARROT
+        dataValue: 4
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 15
+        display: Scale [141:4]
+        category: Interior
+        type: BLOCK 
+    Sapling0:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 16
+        display: Lamp [6:0]
+        category: Misc
+        type: BLOCK 
+    Sapling1:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 17
+        display: Hanging Brazier [6:1]
+        category: Misc
+        type: BLOCK 
+    Sapling2:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 18
+        display: Hook [6:2]
+        category: Misc
+        type: BLOCK 
+    Sapling3:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 19
+        display: Chandelier [6:3]
+        category: Misc
+        type: BLOCK 
+    Sapling4:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 4
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 20
+        display: Reel [6:4]
+        category: Misc
+        type: BLOCK 
+    Sapling5:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 5
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 21
+        display: Candle [6:5]
+        category: Misc
+        type: BLOCK 
+    Sapling8:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 8
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 22
+        display: Grate [6:8]
+        category: Misc
+        type: BLOCK
+    Sapling9:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 9
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 23
+        display: Grate [6:9]
+        category: Misc
+        type: BLOCK
+    Sapling10:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 10
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 24
+        display: Grate [6:10]
+        category: Misc
+        type: BLOCK
+    Sapling11:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 11
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 25
+        display: Arrows [6:11]
+        category: Workshop
+        type: BLOCK 
+    Sapling12:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 12
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 26
+        display: Spears [6:12]
+        category: Workshop
+        type: BLOCK 
+    Sapling13:
+        blockMaterial: LEGACY_SAPLING
+        dataValue: 13
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 27
+        display: Weapons [6:13]
+        category: Workshop
+        type: BLOCK 
+    Melon:
+        blockMaterial: LEGACY_MELON_BLOCK
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 28
+        display: Shelves [103:0]
+        category: Interior
+        type: BLOCK 
+    Pumkpin0:
+        blockMaterial: LEGACY_PUMPKIN
+        dataValue: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 29
+        display: Foundry Output [86:2]
+        category: Workshop
+        type: BLOCK 
+    Pumkpin1:
+        blockMaterial: LEGACY_PUMPKIN
+        dataValueX: 3
+        dataValueY: 0
+        dataValueZ: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 30
+        display: Small Logs [86:0,1,2]
+        category: Workshop
+        type: THREE_AXIS
+    Cactus0:
+        blockMaterial: LEGACY_CACTUS
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 31
+        display: Meat [81:0]
+        category: Interior
+        type: BLOCK 
+    Cactus1:
+        blockMaterial: LEGACY_CACTUS
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 32
+        display: Table [81:1]
+        category: Interior
+        type: BLOCK 
+    Cactus2:
+        blockMaterial: LEGACY_CACTUS
+        dataValueX: 4
+        dataValueY: 2
+        dataValueZ: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 33
+        display: Barrel [81:2,3,4]
+        category: Interior
+        type: THREE_AXIS 
+    Cactus5:
+        blockMaterial: LEGACY_CACTUS
+        dataValue: 5
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 34
+        display: Empty Box [81:5]
+        category: Interior
+        type: BLOCK 
+    Cactus6:
+        blockMaterial: LEGACY_CACTUS
+        dataValueNorth: 6
+        dataValueSouth: 8
+        dataValueWest: 9
+        dataValueEast: 7
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 35
+        display: Chair [81:6,7,8,9]
+        category: Interior
+        type: FOUR_DIRECTIONS
+    Cactus10:
+        blockMaterial: LEGACY_CACTUS
+        dataValue: 10
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 36
+        display: Bell [81:10]
+        category: Interior
+        type: BLOCK 
+    Cactus11:
+        blockMaterial: LEGACY_CACTUS
+        dataValue: 11
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 37
+        display: Supports [81:11]
+        category: Deco
+        type: BLOCK 
+    Cactus12:
+        blockMaterial: LEGACY_CACTUS
+        dataValue: 12
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 38
+        display: Military Crate [81:12]
+        category: Workshop
+        type: BLOCK 
+    Cactus13:
+        blockMaterial: LEGACY_CACTUS
+        dataValue: 13
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 39
+        display: Brazier [81:13]
+        category: Misc
+        type: BLOCK 
+    ChorusFlower0:
+        blockMaterial: LEGACY_CHORUS_FLOWER
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 40
+        display: Bellows [200:0]
+        category: Workshop
+        type: BLOCK 
+    ChorusFlower1:
+        blockMaterial: LEGACY_CHORUS_FLOWER
+        dataValueNorth: 1
+        dataValueSouth: 3
+        dataValueWest: 4
+        dataValueEast: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 41
+        display: Supports Side [200:1,2,3,4]
+        category: Deco
+        type: FOUR_DIRECTIONS
+    ChorusFlower5:
+        blockMaterial: LEGACY_CHORUS_FLOWER
+        dataValue: 5
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 42
+        display: Pipe Ending [200:5]
+        category: Workshop
+        type: BLOCK 
+    ChorusPlant0:
+        blockMaterial: LEGACY_CHORUS_PLANT
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 43
+        display: Rusty Pipe [199:0]
+        category: Workshop
+        type: BLOCK 
+    BrownGlass:
+        blockMaterial: LEGACY_STAINED_GLASS
+        dataValue: 12
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 44
+        display: Cage [95:12]
+        category: Interior
+        type: BLOCK 
+    GreenGlass:
+        blockMaterial: LEGACY_STAINED_GLASS
+        dataValue: 13
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 45
+        display: Jar [95:13]
+        category: Interior
+        type: BLOCK 
+    MonsterEgg0:
+        blockMaterial: LEGACY_MONSTER_EGGS
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 46
+        display: Stone Cabinet [97:0]
+        category: Interior
+        type: BLOCK 
+    MonsterEgg1:
+        blockMaterial: LEGACY_MONSTER_EGGS
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 47
+        display: Wooden Cabinet [97:1]
+        category: Interior
+        type: BLOCK 
+    MonsterEgg2:
+        blockMaterial: LEGACY_MONSTER_EGGS
+        dataValue: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 48
+        display: Stone Wardrobe [97:2]
+        category: Interior
+        type: BLOCK 
+    MonsterEgg3:
+        blockMaterial: LEGACY_MONSTER_EGGS
+        dataValue: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 49
+        display: Wooden Wardrobe [97:3]
+        category: Interior
+        type: BLOCK 
+    MonsterEgg4:
+        blockMaterial: LEGACY_MONSTER_EGGS
+        dataValue: 4
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 50
+        display: Sone Drawers [97:4]
+        category: Interior
+        type: BLOCK 
+    MonsterEgg5:
+        blockMaterial: LEGACY_MONSTER_EGGS
+        dataValue: 5
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 51
+        display: Wooden Drawers [97:5]
+        category: Interior
+        type: BLOCK 
+    Dropper8:
+        blockMaterial: LEGACY_DROPPER
+        dataValueX: 12
+        dataValueY: 8
+        dataValueZ: 10
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 52
+        display: Rope Block [158:8,10,12]
+        category: Workshop
+        type: THREE_AXIS
+    Dropper9:
+        blockMaterial: LEGACY_DROPPER
+        dataValueX: 13
+        dataValueY: 9
+        dataValueZ: 11
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 53
+        display: Chain Block [158:9,11,13]
+        category: Workshop
+        type: THREE_AXIS 
+    Observer0:
+        blockMaterial: LEGACY_OBSERVER
+        dataValueX: 4
+        dataValueY: 1
+        dataValueZ: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 54
+        display: Column Type A [218:0,1,2]
+        category: Deco
+        type: THREE_AXIS
+    Observer3:
+        blockMaterial: LEGACY_OBSERVER
+        dataValueX: 5
+        dataValueY: 0
+        dataValueZ: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 55
+        display: Column Type B [218:3,4,5]
+        category: Deco
+        type: THREE_AXIS
+    RedstoneWire0:
+        blockMaterial: LEGACY_REDSTONE_WIRE
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 56
+        display: Dust [55:0]
+        category: Deco
+        type: BLOCK
+    RedstoneWire1:
+        blockMaterial: LEGACY_REDSTONE_WIRE
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 57
+        display: Chain (vertical) [55:1]
+        category: Workshop
+        type: BLOCK
+    RedstoneWire2:
+        blockMaterial: LEGACY_REDSTONE_WIRE
+        dataValue: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 58
+        display: Chain (horizontal) [55:2]
+        category: Workshop
+        type: BLOCK
+    RedstoneWire3:
+        blockMaterial: LEGACY_REDSTONE_WIRE
+        dataValue: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 59
+        display: Dirt [55:3]
+        category: Deco
+        type: BLOCK
+    RedstoneWire4:
+        blockMaterial: LEGACY_REDSTONE_WIRE
+        dataValue: 4
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 60
+        display: Coal [55:4]
+        category: Deco
+        type: BLOCK
+    RedstoneWire5:
+        blockMaterial: LEGACY_REDSTONE_WIRE
+        dataValue: 5
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 61
+        display: Foundry Pipe [55:5]
+        category: Workshop
+        type: BLOCK
+    RedstoneWire6:
+        blockMaterial: LEGACY_REDSTONE_WIRE
+        dataValue: 6
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 62
+        display: Wooden Aqueduct [55:6]
+        category: Workshop
+        type: BLOCK
+    RedstoneComparator0:
+        blockMaterial: LEGACY_REDSTONE_COMPARATOR_OFF
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 63
+        display: 1/4 Block [149:0]
+        category: Deco
+        type: BLOCK
+    RedstoneComparator1:
+        blockMaterial: LEGACY_REDSTONE_COMPARATOR_OFF
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 64
+        display: 1/4 Block [149:1]
+        category: Deco
+        type: BLOCK
+    RedstoneComparator2:
+        blockMaterial: LEGACY_REDSTONE_COMPARATOR_OFF
+        dataValue: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 65
+        display: 1/4 Block [149:2]
+        category: Deco
+        type: BLOCK
+    RedstoneComparator3:
+        blockMaterial: LEGACY_REDSTONE_COMPARATOR_OFF
+        dataValue: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 66
+        display: 1/4 Block [149:3]
+        category: Deco
+        type: BLOCK
+    RedstoneComparator4:
+        blockMaterial: LEGACY_REDSTONE_COMPARATOR_OFF
+        dataValue: 4
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 67
+        display: 1/4 Block [149:4]
+        category: Deco
+        type: BLOCK
+    RedstoneComparator5:
+        blockMaterial: LEGACY_REDSTONE_COMPARATOR_OFF
+        dataValue: 5
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 68
+        display: 1/4 Block [149:5]
+        category: Deco
+        type: BLOCK
+    RedstoneComparator6:
+        blockMaterial: LEGACY_REDSTONE_COMPARATOR_OFF
+        dataValue: 6
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 69
+        display: 1/4 Block [149:6]
+        category: Deco
+        type: BLOCK
+    RedstoneComparator7:
+        blockMaterial: LEGACY_REDSTONE_COMPARATOR_OFF
+        dataValue: 7
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 70
+        display: 1/4 Block [149:7]
+        category: Deco
+        type: BLOCK
+    RedstoneComparator8:
+        blockMaterial: LEGACY_REDSTONE_COMPARATOR_OFF
+        dataValue: 8
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 71
+        display: 1/4 Block [149:8]
+        category: Deco
+        type: BLOCK
+    RedstoneComparator9:
+        blockMaterial: LEGACY_REDSTONE_COMPARATOR_OFF
+        dataValue: 9
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 72
+        display: 1/4 Block [149:9]
+        category: Deco
+        type: BLOCK
+    RedstoneRepeater0:
+        blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 73
+        display: Basket [93:0]
+        category: Interior
+        type: BLOCK
+    RedstoneRepeater1:
+        blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 74
+        display: Basket [93:1]
+        category: Interior
+        type: BLOCK
+    # RedstoneRepeater2:
+        # blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        # dataValue: 2
+        # itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        # damage: 75
+        # display: Basket [93:2]
+        # category: Interior
+        # type: BLOCK
+    # RedstoneRepeater3:
+        # blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        # dataValue: 3
+        # itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        # damage: 76
+        # display: Basket [93:3]
+        # category: Interior
+        # type: BLOCK
+    # RedstoneRepeater4:
+        # blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        # dataValue: 4
+        # itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        # damage: 77
+        # display: Basket [93:4]
+        # category: Interior
+        # type: BLOCK
+    # RedstoneRepeater5:
+        # blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        # dataValue: 5
+        # itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        # damage: 78
+        # display: Basket [93:5]
+        # category: Interior
+        # type: BLOCK
+    RedstoneRepeater6:
+        blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        dataValue: 6
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 79
+        display: Basket [93:6]
+        category: Interior
+        type: BLOCK
+    # RedstoneRepeater7:
+        # blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        # dataValue: 7
+        # itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        # damage: 80
+        # display: Basket [93:7]
+        # category: Interior
+        # type: BLOCK
+    RedstoneRepeater8:
+        blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        dataValue: 8
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 81
+        display: Basket [93:8]
+        category: Interior
+        type: BLOCK
+    RedstoneRepeater9:
+        blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        dataValue: 9
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 82
+        display: Basket [93:9]
+        category: Interior
+        type: BLOCK
+    # RedstoneRepeater10:
+        # blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        # dataValue: 10
+        # itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        # damage: 83
+        # display: Basket [93:10]
+        # category: Interior
+        # type: BLOCK
+    RedstoneRepeater11:
+        blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        dataValue: 11
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 84
+        display: Basket [93:11]
+        category: Interior
+        type: BLOCK
+    # RedstoneRepeater12:
+        # blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        # dataValue: 12
+        # itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        # damage: 85
+        # display: Basket [93:12]
+        # category: Interior
+        # type: BLOCK
+    RedstoneRepeater13:
+        blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        dataValue: 13
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 86
+        display: Basket [93:13]
+        category: Interior
+        type: BLOCK
+    RedstoneRepeater14:
+        blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        dataValue: 14
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 87
+        display: Basket [93:14]
+        category: Interior
+        type: BLOCK
+    RedstoneRepeater15:
+        blockMaterial: LEGACY_DIODE_BLOCK_OFF
+        dataValue: 15
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 88
+        display: Basket [93:15]
+        category: Interior
+        type: BLOCK
+    RedstoneRepeaterOn0:
+        blockMaterial: LEGACY_DIODE_BLOCK_ON
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 89
+        display: Empty Basket [94:0]
+        category: Interior
+        type: BLOCK
+    RedstoneRepeaterOn1:
+        blockMaterial: LEGACY_DIODE_BLOCK_ON
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 90
+        display: Grate for Fireplace [94:1]
+        category: Workshop
+        type: BLOCK
+    RedstoneRepeaterOn2:
+        blockMaterial: LEGACY_DIODE_BLOCK_ON
+        dataValue: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 91
+        display: Foundry Form [94:2]
+        category: Workshop
+        type: BLOCK
+    RedstoneRepeaterOn3:
+        blockMaterial: LEGACY_DIODE_BLOCK_ON
+        dataValue: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 92
+        display: Foundry Form Closed [94:3]
+        category: Workshop
+        type: BLOCK
+    RedstoneRepeaterOn4:
+        blockMaterial: LEGACY_DIODE_BLOCK_ON
+        dataValue: 4
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 93
+        display: Parts box [94:4]
+        category: Workshop
+        type: BLOCK
+    RedstoneRepeaterOn5:
+        blockMaterial: LEGACY_DIODE_BLOCK_ON
+        dataValueNorth: 5
+        dataValueSouth: 5
+        dataValueWest: 6
+        dataValueEast: 6
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 94
+        display: Precision Tools [94:5,6]
+        category: Workshop
+        type: FOUR_DIRECTIONS
+    EndPortal0:
+        blockMaterial: LEGACY_ENDER_PORTAL_FRAME
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 95
+        display: 3/4 Block [120:0]
+        category: Deco
+        type: BLOCK
+    EndPortal1:
+        blockMaterial: LEGACY_ENDER_PORTAL_FRAME
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 96
+        display: 3/4 Block [120:1]
+        category: Deco
+        type: BLOCK
+    EndPortal2:
+        blockMaterial: LEGACY_ENDER_PORTAL_FRAME
+        dataValue: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 97
+        display: 3/4 Block [120:2]
+        category: Deco
+        type: BLOCK
+    EndPortal3:
+        blockMaterial: LEGACY_ENDER_PORTAL_FRAME
+        dataValue: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 98
+        display: 3/4 Block [120:03]
+        category: Deco
+        type: BLOCK
+    EndPortal4:
+        blockMaterial: LEGACY_ENDER_PORTAL_FRAME
+        dataValue: 4
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 99
+        display: 3/4 Block [120:4]
+        category: Deco
+        type: BLOCK
+    EndPortal5:
+        blockMaterial: LEGACY_ENDER_PORTAL_FRAME
+        dataValue: 5
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 100
+        display: 3/4 Block [120:5]
+        category: Deco
+        type: BLOCK
+    EndPortal6:
+        blockMaterial: LEGACY_ENDER_PORTAL_FRAME
+        dataValue: 6
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 101
+        display: 3/4 Block [120:6]
+        category: Deco
+        type: BLOCK
+    EndPortal7:
+        blockMaterial: LEGACY_ENDER_PORTAL_FRAME
+        dataValue: 7
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 102
+        display: 3/4 Block [120:7]
+        category: Deco
+        type: BLOCK
+    Cauldron0:
+        blockMaterial: LEGACY_CAULDRON
+        dataValue: 0
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 103
+        display: Cauldron without Legs [118:0]
+        category: Workshop
+        type: BLOCK
+    Cauldron1:
+        blockMaterial: LEGACY_CAULDRON
+        dataValue: 1
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 104
+        display: Cauldron with Legs [118:1]
+        category: Workshop
+        type: BLOCK
+    Cauldron2:
+        blockMaterial: LEGACY_CAULDRON
+        dataValue: 2
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 105
+        display: Cauldron with Legs 2 [118:2]
+        category: Workshop
+        type: BLOCK
+    Cauldron3:
+        blockMaterial: LEGACY_CAULDRON
+        dataValue: 3
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 106
+        display: Cauldron filled [118:3]
+        category: Workshop
+        type: BLOCK
+    golden_rail_flat:
+        itemMaterial: LEGACY_POWERED_RAIL
+        damage: 0
+        display: Chain horizontal [27:0]
+        category: Workshop
+        type: VANILLA
+    golden_rail_flat_diagonal:
+        blockMaterial: LEGACY_POWERED_RAIL
+        dataValueNorth: 8
+        dataValueNorthWest: 8
+        dataValueWest: 9
+        dataValueSouthWest: 9
+        dataValueSouth: 8
+        dataValueSouthEast: 8
+        dataValueEast: 9
+        dataValueNorthEast: 9
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 107
+        display: Chain diagonal [27:8]
+        category: Workshop
+        type: EIGHT_FACES
+    golden_rail_raised_e:
+        blockMaterial: LEGACY_POWERED_RAIL
+        dataValue: 10
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 108
+        display: Chain vertical [27:10]
+        category: Workshop
+        type: BLOCK
+    detector_rail_flat:
+        itemMaterial: LEGACY_DETECTOR_RAIL
+        damage: 0
+        display: Rope horizontal [28:0]
+        category: Workshop
+        type: VANILLA
+    detector_rail_flat_diagonal:
+        blockMaterial: LEGACY_DETECTOR_RAIL
+        dataValueNorth: 8
+        dataValueNorthWest: 8
+        dataValueWest: 9
+        dataValueSouthWest: 9
+        dataValueSouth: 8
+        dataValueSouthEast: 8
+        dataValueEast: 9
+        dataValueNorthEast: 9
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 109
+        display: Rope diagonal [28:8]
+        category: Workshop
+        type: EIGHT_FACES
+    detector_rail_raised_e:
+        blockMaterial: LEGACY_DETECTOR_RAIL
+        dataValue: 10
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 110
+        display: Rope vertical [28:10]
+        category: Workshop
+        type: BLOCK
+    StickyPistonHead:
+        blockMaterial: LEGACY_PISTON_EXTENSION
+        dataValueNorth: 10
+        dataValueSouth: 11
+        dataValueEast: 13
+        dataValueWest: 12
+        dataValueUp: 9
+        dataValueDown: 8
+        itemMaterial: LEGACY_DIAMOND_LEGGINGS
+        damage: 111
+        category: Workshop
+        type: SIX_FACES

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing\u003dsouth": {
+      "model": "block/anvil_very_damaged/1"
+    },
+    "facing\u003dwest": {
+      "model": "block/anvil_very_damaged/1",
+      "y": 90
+    },
+    "facing\u003dnorth": {
+      "model": "block/anvil_very_damaged/1",
+      "y": 180
+    },
+    "facing\u003deast": {
+      "model": "block/anvil_very_damaged/1",
+      "y": 270
+    }
+  }
+}

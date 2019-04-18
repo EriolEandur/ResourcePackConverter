@@ -1,0 +1,103 @@
+Items:
+   oak_fence:
+      blockMaterial: LEGACY_FENCE
+      dataValue: 0
+      itemMaterial: LEGACY_FENCE
+      damage: 0
+      display: Oak fence [85:0]
+      category: Fence
+      type: VANILLA
+   oak_fence_gate:
+      blockMaterial: LEGACY_FENCE_GATE
+      dataValue: 0
+      itemMaterial: LEGACY_FENCE_GATE
+      damage: 0
+      display: Oak fence gate [107:0]
+      category: Fence
+      type: VANILLA
+   birch_fence:
+      blockMaterial: LEGACY_BIRCH_FENCE
+      dataValue: 0
+      itemMaterial: LEGACY_BIRCH_FENCE
+      damage: 0
+      display: Birch fence [189:0]
+      category: Fence
+      type: VANILLA
+   birch_fence_gate:
+      blockMaterial: LEGACY_BIRCH_FENCE_GATE
+      dataValue: 0
+      itemMaterial: LEGACY_BIRCH_FENCE_GATE
+      damage: 0
+      display: Birch fence gate [184:0]
+      category: Fence
+      type: VANILLA
+   nether_fence:
+      blockMaterial: LEGACY_NETHER_FENCE
+      dataValue: 0
+      itemMaterial: LEGACY_NETHER_FENCE
+      damage: 0
+      display: White bricks fence [113:0]
+      category: Fence
+      type: VANILLA
+   jungle_fence:
+      blockMaterial: LEGACY_JUNGLE_FENCE
+      dataValue: 0
+      itemMaterial: LEGACY_JUNGLE_FENCE
+      damage: 0
+      display: White bricks wall [190:0]
+      category: Fence
+      type: VANILLA
+   acacia_fence_gate_closed_ne:
+      blockMaterial: LEGACY_ACACIA_FENCE_GATE
+      dataValueWest: 3
+      dataValueNorth: 2
+      dataValueEast: 3
+      dataValueSouth: 2
+      itemMaterial: LEGACY_DIAMOND_LEGGINGS
+      damage: 283
+      display: White bricks wall straight [187:2]
+      category: Fence
+      type: FOUR_DIRECTIONS
+   spruce_fence:
+      blockMaterial: LEGACY_SPRUCE_FENCE
+      dataValue: 0
+      itemMaterial: LEGACY_SPRUCE_FENCE
+      damage: 0
+      display: Light gray bricks wall [188:0]
+      category: Fence
+      type: VANILLA
+   acacia_fence_gate_closed_sw:
+      blockMaterial: LEGACY_ACACIA_FENCE_GATE
+      dataValueWest: 1
+      dataValueNorth: 0
+      dataValueEast: 1
+      dataValueSouth: 0
+      itemMaterial: LEGACY_DIAMOND_LEGGINGS
+      damage: 282
+      display: Light gray bricks wall straight [187:0]
+      category: Fence
+      type: FOUR_DIRECTIONS
+   cobblestone_wall:
+      blockMaterial: LEGACY_COBBLE_WALL
+      dataValue: 0
+      itemMaterial: LEGACY_COBBLE_WALL
+      damage: 0
+      display: Cobblestone wall [139:0]
+      category: Fence
+      type: VANILLA
+   cobblestone_wall_mossy:
+      blockMaterial: LEGACY_COBBLE_WALL
+      dataValue: 1
+      itemMaterial: LEGACY_COBBLE_WALL
+      damage: 1
+      display: Mossy cobblestone wall [139:1]
+      category: Fence
+      type: VANILLA
+   iron_fence:
+      blockMaterial: LEGACY_IRON_FENCE
+      dataValue: 0
+      itemMaterial: LEGACY_IRON_FENCE
+      damage: 0
+      display: Iron fence [101:0]
+      category: Fence
+      type: VANILLA

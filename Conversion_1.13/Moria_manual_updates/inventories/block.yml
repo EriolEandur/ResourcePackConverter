@@ -1,0 +1,806 @@
+# 
+# MAX durability of Diamond Leggings: 496
+Categories:
+  Workshop:
+    itemMaterial: GOLDEN_HELMET
+    damage: 5
+    damageCurrent: 6
+    display: Workshop items
+  Interior:
+    itemMaterial: GOLDEN_HELMET
+    damage: 7
+    damageCurrent: 8
+    display: Interior items
+  Deco:
+    itemMaterial: GOLDEN_HELMET
+    damage: 9
+    damageCurrent: 10
+    display: Decoration
+  Misc:
+    itemMaterial: GOLDEN_HELMET
+    damage: 11
+    damageCurrent: 12
+    display: Miscellanous blocks
+Items:
+  Netherwart1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 1
+    display: Torn Rope [115:1]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:nether_wart[age=1]
+  Netherwart2:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 2
+    display: Bag [115:2]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:nether_wart[age=2]
+  Netherwart3:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 3
+    display: Statue/Decoration [115:3]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:nether_wart[age=3]
+  Beetroot1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 4
+    display: Saw blade [207:1+2]
+    category: Workshop
+    type: FOUR_DIRECTIONS
+    blockDataSouth: minecraft:beetroots[age=1]
+    blockDataWest: minecraft:beetroots[age=0]
+    blockDataNorth: minecraft:beetroots[age=1]
+    blockDataEast: minecraft:beetroots[age=0]
+  Crops0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 5
+    display: Plate [59:0]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:wheat[age=0]
+  Crops1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 6
+    display: Pot [59:1]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:wheat[age=1]
+  Crops2:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 7
+    display: Cup [59:2]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:wheat[age=2]
+  Crops3:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 8
+    display: Bottle [59:3]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:wheat[age=3]
+  Crops4:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 9
+    display: Jar Filling [59:4]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:wheat[age=4]
+  Crops5:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 10
+    display: Small Jar [59:5]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:wheat[age=5]
+  Carrots0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 11
+    display: Small Box [141:0]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:carrots[age=0]
+  Carrots1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 12
+    display: Paper [141:1]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:carrots[age=1]
+  Carrots2:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 13
+    display: Map [141:2]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:carrots[age=2]
+  Carrots3:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 14
+    display: Skin [141:3]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:carrots[age=3]
+  Carrots4:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 15
+    display: Scale [141:4]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:carrots[age=4]
+  Sapling0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 16
+    display: Lamp [6:0]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:oak_sapling[stage=0]
+  Sapling1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 17
+    display: Hanging Brazier [6:1]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:spruce_sapling[stage=0]
+  Sapling2:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 18
+    display: Hook [6:2]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:birch_sapling[stage=0]
+  Sapling3:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 19
+    display: Chandelier [6:3]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:jungle_sapling[stage=0]
+  Sapling4:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 20
+    display: Reel [6:4]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:acacia_sapling[stage=0]
+  Sapling5:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 21
+    display: Candle [6:5]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:dark_oak_sapling[stage=0]
+  Sapling8:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 22
+    display: Grate [6:8]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:oak_sapling[stage=1]
+  Sapling9:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 23
+    display: Grate [6:9]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:spruce_sapling[stage=1]
+  Sapling10:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 24
+    display: Grate [6:10]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:birch_sapling[stage=1]
+  Sapling11:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 25
+    display: Arrows [6:11]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:jungle_sapling[stage=1]
+  Sapling12:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 26
+    display: Spears [6:12]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:acacia_sapling[stage=1]
+  Sapling13:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 27
+    display: Weapons [6:13]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:dark_oak_sapling[stage=1]
+  Melon:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 28
+    display: Shelves [103:0]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:melon
+  Pumkpin0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 29
+    display: Foundry Output [86:2]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:carved_pumpkin[facing=north]
+  Pumkpin1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 30
+    display: Small Logs [86:0,1,2]
+    category: Workshop
+    type: THREE_AXIS
+    blockDataZ: minecraft:carved_pumpkin[facing=south]
+    blockDataX: minecraft:carved_pumpkin[facing=south]
+    blockDataY: minecraft:carved_pumpkin[facing=south]
+  Cactus0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 31
+    display: Meat [81:0]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:cactus[age=0]
+  Cactus1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 32
+    display: Table [81:1]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:cactus[age=1]
+  Cactus2:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 33
+    display: Barrel [81:2,3,4]
+    category: Interior
+    type: THREE_AXIS
+    blockDataZ: minecraft:cactus[age=0]
+    blockDataX: minecraft:cactus[age=0]
+    blockDataY: minecraft:cactus[age=0]
+  Cactus5:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 34
+    display: Empty Box [81:5]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:cactus[age=5]
+  Cactus6:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 35
+    display: Chair [81:6,7,8,9]
+    category: Interior
+    type: FOUR_DIRECTIONS
+    blockDataSouth: minecraft:cactus[age=8]
+    blockDataWest: minecraft:cactus[age=9]
+    blockDataNorth: minecraft:cactus[age=6]
+    blockDataEast: minecraft:cactus[age=7]
+  Cactus10:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 36
+    display: Bell [81:10]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:cactus[age=10]
+  Cactus11:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 37
+    display: Supports [81:11]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:cactus[age=11]
+  Cactus12:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 38
+    display: Military Crate [81:12]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:cactus[age=12]
+  Cactus13:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 39
+    display: Brazier [81:13]
+    category: Misc
+    type: BLOCK
+    blockData: minecraft:cactus[age=13]
+  ChorusFlower0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 40
+    display: Bellows [200:0]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:chorus_flower[age=0]
+  ChorusFlower1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 41
+    display: Supports Side [200:1,2,3,4]
+    category: Deco
+    type: FOUR_DIRECTIONS
+    blockDataSouth: minecraft:chorus_flower[age=3]
+    blockDataWest: minecraft:chorus_flower[age=4]
+    blockDataNorth: minecraft:chorus_flower[age=1]
+    blockDataEast: minecraft:chorus_flower[age=2]
+  ChorusFlower5:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 42
+    display: Pipe Ending [200:5]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:chorus_flower[age=5]
+  ChorusPlant0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 43
+    display: Rusty Pipe [199:0]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=false,west=false]
+  BrownGlass:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 44
+    display: Cage [95:12]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:brown_stained_glass
+  GreenGlass:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 45
+    display: Jar [95:13]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:green_stained_glass
+  MonsterEgg0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 46
+    display: Stone Cabinet [97:0]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:infested_stone
+  MonsterEgg1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 47
+    display: Wooden Cabinet [97:1]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:infested_cobblestone
+  MonsterEgg2:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 48
+    display: Stone Wardrobe [97:2]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:infested_stone_bricks
+  MonsterEgg3:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 49
+    display: Wooden Wardrobe [97:3]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:infested_mossy_stone_bricks
+  MonsterEgg4:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 50
+    display: Stone Drawers [97:4]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:infested_cracked_stone_bricks
+  MonsterEgg5:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 51
+    display: Wooden Drawers [97:5]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:infested_chiseled_stone_bricks
+  Dropper8:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 52
+    display: Rope Block [158:8,10,12]
+    category: Workshop
+    type: THREE_AXIS
+    blockDataZ: minecraft:dropper[facing=down,triggered=false]
+    blockDataX: minecraft:dropper[facing=down,triggered=false]
+    blockDataY: minecraft:dropper[facing=down,triggered=false]
+  Dropper9:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 53
+    display: Chain Block [158:9,11,13]
+    category: Workshop
+    type: THREE_AXIS
+    blockDataZ: minecraft:dropper[facing=down,triggered=false]
+    blockDataX: minecraft:dropper[facing=down,triggered=false]
+    blockDataY: minecraft:dropper[facing=down,triggered=false]
+  Observer0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 54
+    display: Column Type A [218:0,1,2]
+    category: Deco
+    type: THREE_AXIS
+    blockDataZ: minecraft:observer[facing=down,powered=false]
+    blockDataX: minecraft:observer[facing=down,powered=false]
+    blockDataY: minecraft:observer[facing=down,powered=false]
+  Observer3:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 55
+    display: Column Type B [218:3,4,5]
+    category: Deco
+    type: THREE_AXIS
+    blockDataZ: minecraft:observer[facing=down,powered=false]
+    blockDataX: minecraft:observer[facing=down,powered=false]
+    blockDataY: minecraft:observer[facing=down,powered=false]
+  RedstoneWire0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 56
+    display: Dust [55:0]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:redstone_wire[east=none,north=none,power=0,south=none,west=none]
+  RedstoneWire1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 57
+    display: Chain (vertical) [55:1]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:redstone_wire[east=none,north=none,power=1,south=none,west=none]
+  RedstoneWire2:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 58
+    display: Chain (horizontal) [55:2]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:redstone_wire[east=none,north=none,power=2,south=none,west=none]
+  RedstoneWire3:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 59
+    display: Dirt [55:3]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:redstone_wire[east=none,north=none,power=3,south=none,west=none]
+  RedstoneWire4:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 60
+    display: Coal [55:4]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:redstone_wire[east=none,north=none,power=4,south=none,west=none]
+  RedstoneWire5:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 61
+    display: Foundry Pipe [55:5]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:redstone_wire[east=none,north=none,power=5,south=none,west=none]
+  RedstoneWire6:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 62
+    display: Wooden Aqueduct [55:6]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:redstone_wire[east=none,north=none,power=6,south=none,west=none]
+  RedstoneComparator0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 63
+    display: 1/4 Block [149:0]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:comparator[facing=south,mode=compare,powered=false]
+  RedstoneComparator1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 64
+    display: 1/4 Block [149:1]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:comparator[facing=west,mode=compare,powered=false]
+  RedstoneComparator2:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 65
+    display: 1/4 Block [149:2]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:comparator[facing=north,mode=compare,powered=false]
+  RedstoneComparator3:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 66
+    display: 1/4 Block [149:3]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:comparator[facing=east,mode=compare,powered=false]
+  RedstoneComparator4:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 67
+    display: 1/4 Block [149:4]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:comparator[facing=south,mode=subtract,powered=false]
+  RedstoneComparator5:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 68
+    display: 1/4 Block [149:5]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:comparator[facing=west,mode=subtract,powered=false]
+  RedstoneComparator6:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 69
+    display: 1/4 Block [149:6]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:comparator[facing=north,mode=subtract,powered=false]
+  RedstoneComparator7:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 70
+    display: 1/4 Block [149:7]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:comparator[facing=east,mode=subtract,powered=false]
+  RedstoneComparator8:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 71
+    display: 1/4 Block [149:8]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:comparator[facing=south,mode=compare,powered=true]
+  RedstoneComparator9:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 72
+    display: 1/4 Block [149:9]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:comparator[facing=west,mode=compare,powered=true]
+  RedstoneRepeater0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 73
+    display: Basket [93:0]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:repeater[delay=1,facing=south,locked=false,powered=false]
+  RedstoneRepeater1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 74
+    display: Basket [93:1]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:repeater[delay=1,facing=west,locked=false,powered=false]
+  RedstoneRepeater6:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 79
+    display: Basket [93:6]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:repeater[delay=2,facing=north,locked=false,powered=false]
+  RedstoneRepeater8:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 81
+    display: Basket [93:8]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:repeater[delay=3,facing=south,locked=false,powered=false]
+  RedstoneRepeater9:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 82
+    display: Basket [93:9]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:repeater[delay=3,facing=west,locked=false,powered=false]
+  RedstoneRepeater11:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 84
+    display: Basket [93:11]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:repeater[delay=3,facing=east,locked=false,powered=false]
+  RedstoneRepeater13:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 86
+    display: Basket [93:13]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:repeater[delay=4,facing=west,locked=false,powered=false]
+  RedstoneRepeater14:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 87
+    display: Basket [93:14]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:repeater[delay=4,facing=north,locked=false,powered=false]
+  RedstoneRepeater15:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 88
+    display: Basket [93:15]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:repeater[delay=4,facing=east,locked=false,powered=false]
+  RedstoneRepeaterOn0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 89
+    display: Empty Basket [94:0]
+    category: Interior
+    type: BLOCK
+    blockData: minecraft:repeater[delay=1,facing=south,locked=false,powered=false]
+  RedstoneRepeaterOn1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 90
+    display: Grate for Fireplace [94:1]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:repeater[delay=1,facing=west,locked=false,powered=false]
+  RedstoneRepeaterOn2:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 91
+    display: Foundry Form [94:2]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:repeater[delay=1,facing=north,locked=false,powered=false]
+  RedstoneRepeaterOn3:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 92
+    display: Foundry Form Closed [94:3]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:repeater[delay=1,facing=east,locked=false,powered=false]
+  RedstoneRepeaterOn4:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 93
+    display: Parts box [94:4]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:repeater[delay=2,facing=south,locked=false,powered=false]
+  RedstoneRepeaterOn5:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 94
+    display: Precision Tools [94:5,6]
+    category: Workshop
+    type: FOUR_DIRECTIONS
+    blockDataSouth: minecraft:repeater[delay=2,facing=west,locked=false,powered=false]
+    blockDataWest: minecraft:repeater[delay=2,facing=north,locked=false,powered=false]
+    blockDataNorth: minecraft:repeater[delay=2,facing=west,locked=false,powered=false]
+    blockDataEast: minecraft:repeater[delay=2,facing=north,locked=false,powered=false]
+  EndPortal0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 95
+    display: 3/4 Block [120:0]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:end_portal_frame[eye=false,facing=south]
+  EndPortal1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 96
+    display: 3/4 Block [120:1]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:end_portal_frame[eye=false,facing=west]
+  EndPortal2:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 97
+    display: 3/4 Block [120:2]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:end_portal_frame[eye=false,facing=north]
+  EndPortal3:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 98
+    display: 3/4 Block [120:03]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:end_portal_frame[eye=false,facing=east]
+  EndPortal4:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 99
+    display: 3/4 Block [120:4]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:end_portal_frame[eye=true,facing=south]
+  EndPortal5:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 100
+    display: 3/4 Block [120:5]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:end_portal_frame[eye=true,facing=west]
+  EndPortal6:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 101
+    display: 3/4 Block [120:6]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:end_portal_frame[eye=true,facing=north]
+  EndPortal7:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 102
+    display: 3/4 Block [120:7]
+    category: Deco
+    type: BLOCK
+    blockData: minecraft:end_portal_frame[eye=true,facing=east]
+  Cauldron0:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 103
+    display: Cauldron without Legs [118:0]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:cauldron[level=0]
+  Cauldron1:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 104
+    display: Cauldron with Legs [118:1]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:cauldron[level=1]
+  Cauldron2:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 105
+    display: Cauldron with Legs 2 [118:2]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:cauldron[level=2]
+  Cauldron3:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 106
+    display: Cauldron filled [118:3]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:cauldron[level=3]
+  golden_rail_flat:
+    itemMaterial: POWERED_RAIL
+    damage: 0
+    display: Chain horizontal [27:0]
+    category: Workshop
+    type: VANILLA
+  golden_rail_flat_diagonal:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 107
+    display: Chain diagonal [27:8]
+    category: Workshop
+    type: EIGHT_FACES
+    blockDataSouth: minecraft:powered_rail[powered=true,shape=north_south]
+    blockDataSouthWest: minecraft:powered_rail[powered=true,shape=east_west]
+    blockDataWest: minecraft:powered_rail[powered=true,shape=east_west]
+    blockDataNorthWest: minecraft:powered_rail[powered=true,shape=north_south]
+    blockDataNorth: minecraft:powered_rail[powered=true,shape=north_south]
+    blockDataNorthEast: minecraft:powered_rail[powered=true,shape=east_west]
+    blockDataEast: minecraft:powered_rail[powered=true,shape=east_west]
+    blockDataSouthEast: minecraft:powered_rail[powered=true,shape=north_south]
+  golden_rail_raised_e:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 108
+    display: Chain vertical [27:10]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:powered_rail[powered=true,shape=ascending_east]
+  detector_rail_flat:
+    itemMaterial: DETECTOR_RAIL
+    damage: 0
+    display: Rope horizontal [28:0]
+    category: Workshop
+    type: VANILLA
+  detector_rail_flat_diagonal:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 109
+    display: Rope diagonal [28:8]
+    category: Workshop
+    type: EIGHT_FACES
+    blockDataSouth: minecraft:detector_rail[powered=true,shape=north_south]
+    blockDataSouthWest: minecraft:detector_rail[powered=true,shape=east_west]
+    blockDataWest: minecraft:detector_rail[powered=true,shape=east_west]
+    blockDataNorthWest: minecraft:detector_rail[powered=true,shape=north_south]
+    blockDataNorth: minecraft:detector_rail[powered=true,shape=north_south]
+    blockDataNorthEast: minecraft:detector_rail[powered=true,shape=east_west]
+    blockDataEast: minecraft:detector_rail[powered=true,shape=east_west]
+    blockDataSouthEast: minecraft:detector_rail[powered=true,shape=north_south]
+  detector_rail_raised_e:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 110
+    display: Rope vertical [28:10]
+    category: Workshop
+    type: BLOCK
+    blockData: minecraft:detector_rail[powered=true,shape=ascending_east]
+  StickyPistonHead:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 111
+    category: Workshop
+    type: SIX_FACES
+    blockDataSouth: minecraft:piston_head[facing=south,short=false,type=sticky]
+    blockDataWest: minecraft:piston_head[facing=west,short=false,type=sticky]
+    blockDataNorth: minecraft:piston_head[facing=north,short=false,type=sticky]
+    blockDataEast: minecraft:piston_head[facing=east,short=false,type=sticky]
+    blockDataDown: minecraft:piston_head[facing=down,short=false,type=sticky]
+    blockDataUp: minecraft:piston_head[facing=up,short=false,type=sticky]

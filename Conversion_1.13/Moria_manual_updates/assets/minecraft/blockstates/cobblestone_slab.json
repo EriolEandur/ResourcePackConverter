@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type\u003dbottom": {
+      "model": "block/cobblestone_slab"
+    },
+    "type\u003dtop": {
+      "model": "block/cobblestone_slab_top"
+    },
+    "type\u003ddouble": {
+      "model": "block/cobblestone"
+    }
+  }
+}
